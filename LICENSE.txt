@@ -1,0 +1,6 @@
+PolyDrift source code
+Copyright (c) 2026
+
+This small demo is provided for personal use, modification, and hosting.
+
+It is an independent PolyTrack-inspired project and is not the original PolyTrack game.
